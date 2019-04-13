@@ -1,0 +1,4 @@
+﻿  main.cpp
+u:\4_semester\cgb\2\project1\project1\main.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+u:\4_semester\cgb\2\project1\project1\main.cpp(99): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Project1.vcxproj -> U:\4_Semester\CGB\2\Project1\x64\Debug\Project1.exe
